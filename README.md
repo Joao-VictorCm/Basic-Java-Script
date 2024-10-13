@@ -8,7 +8,7 @@
 
 ## Sobre
 
-Repositorio criado para treinar e resolver problemas utilizando JavaScript puro.
+Repositório criado para treinar e resolver problemas utilizando JavaScript puro.
 
 ## Recursos
 
